@@ -1,0 +1,42 @@
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+
+    .hero h1{
+        font-size: 1.7rem;
+        text-align: center;
+        padding: 3px;
+    }
+
+    .hero p{
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    .joke-text{
+        font-size: 1.1em;
+        text-align: justify;
+    }
+
+    .get-joke-btn{
+        font-size: 1rem;
+    }
+
+    .icon-group i{
+        font-size: 1.7rem;
+    }
+
+    .footer{
+        flex-direction: column;
+    }
+
+    .footer-content {
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    .social-links{
+        width: 100%;
+        margin-top: 10px;
+        justify-content: center;
+    }
+}

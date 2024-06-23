@@ -1,0 +1,58 @@
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+body.dark-mode .logo h2,
+body.dark-mode .navbar a,
+body.dark-mode .navbar i {
+    color: #ffffff;
+    font-weight: 500;
+}
+
+body.dark-mode .navbar i:hover{
+    color: #cccccc;
+}
+
+body.dark-mode .hero {
+    background: linear-gradient(135deg, #1a237e, #3d5afe);
+}
+
+body.dark-mode .joke-container, body.dark-mode .joke-display {
+    background-color: #1f1f1f;
+}
+
+body.dark-mode .joke-text {
+    color: #ffffff;
+}
+
+body.dark-mode .get-joke-btn {
+    color: #000000;
+    background-color: #ffffff;
+}
+
+body.dark-mode .get-joke-btn:hover {
+    color: white;
+    background-color: #333333;
+}
+
+body.dark-mode .icon-group i {
+    color: #ffffff
+}
+
+body.dark-mode .icon-group i:hover {
+    color: #cccccc;
+}
+
+body.dark-mode .tooltip{
+    color: #000000;
+    background-color: #ffffff;
+}
+
+body.dark-mode .social-links i {
+    color: #ffffff;
+} 
+
+body.dark-mode .social-links li i:hover{
+    color: #cccccc;
+}
